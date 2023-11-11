@@ -11,5 +11,14 @@
     "componentId": "multi-line-text",
     "modelId": "hero",
     "fieldType": "string"
+  },
+  {
+    "name": "Paragraph",
+    "fieldId": "paragraph",
+    "validations": {},
+    "options": {},
+    "componentId": "multi-line-text",
+    "modelId": "hero",
+    "fieldType": "date"
   }
 ]
