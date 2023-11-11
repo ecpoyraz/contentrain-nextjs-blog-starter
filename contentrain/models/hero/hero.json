@@ -2,7 +2,9 @@
   {
     "ID": "23d86d76cb49",
     "createdAt": "2023-11-11T18:17:03.199Z",
-    "updatedAt": "2023-11-11T18:17:03.199Z",
-    "status": "draft"
+    "updatedAt": "2023-11-11T18:20:04.829Z",
+    "status": "draft",
+    "Paragraph": "Paragraph Here",
+    "Title": "Catchy Title Here"
   }
 ]
