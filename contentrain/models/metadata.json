@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Hero",
+    "modelId": "hero",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user"
+  }
+]
